@@ -3,7 +3,7 @@ Programs done in Computer Networks Lab
 
 
 Put these commands in terminal to display xgraph
--d ---->delimiter "<white space>"
+-d ---->delimiter "white space"
 -f----->to display data
 
 

@@ -55,7 +55,6 @@ $ns connect $tcp0 $sink0
 set telnet [new Application/Telnet]
 $telnet attach-agent $tcp0
 $telnet set interval_ 0
-#$ftp0 set type_ FTP
 
 #Set TCP FTP Connection between n(1) and n(3)
 set tcp1 [new Agent/TCP]

@@ -21,7 +21,7 @@ proc finish {} {
     close $namFile
 	exec awk -f stats.awk 2.tr &
 	exec nam 2.nam &
-	#exec xgraph telnet.xg -t "Throughput Vs Bandwidth(TELNET)" -x "kbps" -y "Bps"
+	exec xgraph telnet.xg -t "Throughput Vs Bandwidth(TELNET)" -x "kbps" -y "Bps" &
 	exec xgraph ftp.xg -t "Throughput Vs Bandwidth(FTP)" -x "kbps" -y "Bps"
     exit 0
 }

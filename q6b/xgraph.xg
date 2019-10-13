@@ -1,6 +1,9 @@
 TitleText: error_rate vs throughput(CBR)
 XUnitText: error_rate(%)
 YUnitText:  throughput (bytes per second)
+0.Color: red
+1.Color: blue
+2.Color: purple
 "CBR"
 0.10 69710
 0.09 70128

@@ -1,4 +1,4 @@
-#Q.)Simulate the different types of internet traffic such as ftp and telnet over netwrok and analyze the throughput
+#Q.)Simulate the different types of internet traffic such as ftp and telnet over network and analyze the throughput
 
 
 #Create a simulator object

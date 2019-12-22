@@ -1,4 +1,4 @@
-TitleText: error_rate vs throughput(CBR)
+TitleText: error_rate vs throughput
 XUnitText: error_rate(%)
 YUnitText:  throughput (bytes per second)
 0.Color: red

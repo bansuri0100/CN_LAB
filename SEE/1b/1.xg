@@ -1,0 +1,15 @@
+TitleText: Bandwidth Vs No Of Packets Dropped
+xUnitText: Bandwidth
+yUnitText: No of packets dropped
+0.Color: blue
+
+0.7 667
+0.6 400
+0.5 222
+0.4 111
+0.5 76
+0.6 42
+0.7 20
+0.8 0
+
+
